@@ -35,7 +35,7 @@ Successfully recreated the frontend UI of a major streaming platform, demonstrat
 
 # Demo 
 
-### 1: PDF-Ui
+### 1: Disney+Hotstar-Ui
 ![Demo Image](https://github.com/smit012/Disney-Hotstar-Clone-Frontend-UI/blob/main/Disney%2BHotstar.png)
 <hr>
 <hr>
