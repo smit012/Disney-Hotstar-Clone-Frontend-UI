@@ -13,9 +13,7 @@ HTML CSS JAVASCRIPT
 ## Tools Used:
 
 HTML
-
 CSS
-
 JavaScript
 
 
@@ -38,7 +36,9 @@ Successfully recreated the frontend UI of a major streaming platform, demonstrat
 # Demo 
 
 ### 1: PDF-Ui
-![Demo Image](https://github.com/smit012/Multimedia-Converter-Tools-Website-Frontend-UI-/blob/main/PDF_Tools.png)
+![Demo Image](https://github.com/smit012/Disney-Hotstar-Clone-Frontend-UI/blob/main/Disney%2BHotstar.png)
+<hr>
+<hr>
 
 
 
